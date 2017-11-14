@@ -1,0 +1,49 @@
+{
+  "_from": "react-native-image-cropping@^1.0.0",
+  "_id": "react-native-image-cropping@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-9dsFdS16D1vdpxogU0BH2T4Q+Ig=",
+  "_location": "/react-native-image-cropping",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-image-cropping@^1.0.0",
+    "name": "react-native-image-cropping",
+    "escapedName": "react-native-image-cropping",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-image-cropping/-/react-native-image-cropping-1.0.0.tgz",
+  "_shasum": "f5db05752d7a0f5bdda71a20534047d93e10f888",
+  "_spec": "react-native-image-cropping@^1.0.0",
+  "_where": "/Users/sara/React-Native/Snappar",
+  "bugs": {
+    "url": "https://github.com/meznaric/react-native-image-cropping/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "TOCropViewController": "git+https://github.com/meznaric/TOCropViewController.git"
+  },
+  "deprecated": false,
+  "description": "Simple image cropping library for react-native.",
+  "homepage": "https://github.com/meznaric/react-native-image-cropping#readme",
+  "keywords": [
+    "react-native image cropping"
+  ],
+  "license": "MIT",
+  "name": "react-native-image-cropping",
+  "peerDependencies": {
+    "react-native": "^0.28.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meznaric/react-native-image-cropping.git"
+  },
+  "version": "1.0.0"
+}
