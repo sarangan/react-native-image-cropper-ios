@@ -1,7 +1,7 @@
-## This is the modified version of image cropping library https://github.com/meznaric/react-native-image-cropping 
-## This is designed to work for local and network images, follow the installation as original library 
+# This is the modified version of image cropping library https://github.com/meznaric/react-native-image-cropping 
+# This is designed to work for local and network images, follow the installation as original library 
 
-## usage 
+# usage 
 ```
 let ReactNativeImageCropping = NativeModules.ReactNativeImageCropping;
 
