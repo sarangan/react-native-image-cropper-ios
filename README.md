@@ -1,3 +1,20 @@
+## This is the modified version of image cropping library https://github.com/meznaric/react-native-image-cropping 
+## This is designed to work for local and network images, follow the installation as original library 
+
+## usage 
+```
+let ReactNativeImageCropping = NativeModules.ReactNativeImageCropping;
+
+     ReactNativeImageCropping
+     	.cropImageWithUrl(imagePath, 'PATH') // this can be 'PATH for local images and 'URL' for network images
+         .then(image => {
+     		//Image is saved in NSTemporaryDirectory!
+     		//image = {uri, width, height}
+         console.log(image.uri);
+     	},
+     	err => console.log(err));
+```
+
 Simple react-native image cropping library wrapper around [siong1987/TOCropViewController](https://github.com/siong1987/TOCropViewController)
 
 ![TOCropViewController](https://raw.githubusercontent.com/siong1987/TOCropViewController/master/screenshot.jpg)
