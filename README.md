@@ -1,5 +1,5 @@
 # This is the modified version of image cropping library https://github.com/meznaric/react-native-image-cropping 
-# This is designed to work for local and network images, follow the installation as original library 
+# This is designed to work for local and network images, follow the installation as original library and replace the files 
 
 # usage 
 ```
